@@ -50,3 +50,4 @@ Department-level Analysis: Filters to analyze attrition within HR, R\&D, and Sal
 * Empowers HR with data-backed strategies to improve employee engagement and reduce churn.
 
  📸 Screenshots 
+https://github.com/Prateek0711/Employee-Attrition-DASHBOARD/blob/main/Employee%20%20Attrition%20%20Dashboard.PNG
