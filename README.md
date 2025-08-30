@@ -52,3 +52,6 @@ Department-level Analysis: Filters to analyze attrition within HR, R\&D, and Sal
  
 📸 Screenshots (https://raw.githubusercontent.com/Prateek0711/Employee-Attrition-DASHBOARD/main/Employee%20%20Attrition%20%20Dashboard.PNG)
 
+<img width="805" height="455" alt="image" src="https://github.com/user-attachments/assets/aeb92019-a0bb-4e8c-9f2a-285d8d00ff5c" />
+
+
